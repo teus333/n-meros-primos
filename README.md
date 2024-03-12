@@ -1,5 +1,5 @@
 # Avaliação processual
-código que o professor pediu
+Números primos
 <!DOCTYPE html>
 <!-- Nome:Douglas Cauan N-6
      Nome:Gulherme Dias N-10
@@ -21,7 +21,7 @@ código que o professor pediu
            
  
             if(N1<2){
-                resultado=N1 +"nao e primo";
+                resultado=N1 +"nao é primo";
             }
             else{
                 var primo=true;
@@ -47,7 +47,7 @@ código que o professor pediu
      </script>
      <head>
     <body>
-        <label for="numero1"> E Numero Primo ou Nao?</label>
+        <label for="numero1"> O número é primo ou não?</label>
         <input type="numero" id="numero1"><br><br>  
  
  <button onclick="Primos()">Calcular</button>
