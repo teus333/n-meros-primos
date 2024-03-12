@@ -35,10 +35,10 @@ Números primos
     }
  
     if(primo){
-        resultado=N1+ "e primo";
+        resultado=N1+ "é primo";
     }
     else{
-        resultado=N1+ "nao e primo";
+        resultado=N1+ "nao é primo";
            }
      }
  
